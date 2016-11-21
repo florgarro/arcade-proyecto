@@ -1,0 +1,22 @@
+body {
+	background-image:url("https://s-media-cache-ak0.pinimg.com/564x/b7/58/e0/b758e04a7ab44ab31f4c894f8542119d.jpg");
+}
+#juego {
+	width: 600px;
+	height: 600px;
+	position: relative;
+	background-color: purple; 
+	border: 3px solid black;
+	margin: auto;
+}
+.pieza {
+	position: absolute;
+	background-position: center; 
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;	
+	background-color: white; 
+	background-size: cover;
+}
+
